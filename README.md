@@ -9,3 +9,7 @@ A sample Salesforce DX App
 ```
 sf force:project:create -n geolocation
 ```
+
+```
+cd geolocation
+```
