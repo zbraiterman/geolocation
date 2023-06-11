@@ -35,3 +35,5 @@ Create the Hyatt account.
 ```
 sfdx force:data:record:create -s Account -v "Name='Hyatt' BillingStreet='5 Embarcadero Center' BillingCity='San Francisco' BillingState='CA' BillingPostalCode='94111' Phone='(415) 788-1234' Website='www.hyatt.com'"
 ```
+
+https://trailhead.salesforce.com/content/learn/modules/sfdx_app_dev/sfdx_app_dev_build_app
